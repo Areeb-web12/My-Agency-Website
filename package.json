@@ -1,16 +1,22 @@
 {
-  "name": "dataharbour-backend",
+  "name": "my-agency-website",
   "version": "1.0.0",
   "type": "module",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "mongoose": "^8.0.0",
-    "nodemailer": "^6.9.0",
-    "dotenv": "^16.0.0"
-  }
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "framer-motion": "latest",
+    "recharts": "latest"
+  },
+  "devDependencies": {}
 }
