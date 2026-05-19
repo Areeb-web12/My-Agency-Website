@@ -1,23 +1,14 @@
 # My Agency Website
 
-Live deployment update
-
-A modern agency website built using React, TypeScript, and Vite.
+Modern agency website built with React, TypeScript, Vite, and Tailwind CSS.
 
 ## Features
 
-- Responsive modern UI
-- Fast Vite build system
-- React + TypeScript architecture
+- Responsive design
+- Fast Vite build
+- React + TypeScript
 - Tailwind CSS styling
-- Easy deployment with Vercel
-
-## Tech Stack
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+- Modern UI components
 
 ## Installation
 
